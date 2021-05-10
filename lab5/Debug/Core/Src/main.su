@@ -1,0 +1,11 @@
+main.c:103:6:Tim_out	16	static
+main.c:118:5:main	8	static
+main.c:166:6:SystemClock_Config	72	static
+main.c:204:13:MX_TIM2_Init	32	static
+main.c:249:13:MX_USART2_UART_Init	8	static
+main.c:282:13:MX_GPIO_Init	40	static
+main.c:337:6:fan_1	16	static
+main.c:365:6:heater	8	static
+main.c:380:6:heat_pump	8	static
+main.c:397:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:456:6:Error_Handler	4	static
